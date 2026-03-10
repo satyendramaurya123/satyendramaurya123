@@ -10,7 +10,8 @@
 
 - 💬 Ask me about *HTML, CSS, Java Script, Bootstrap
 
-- 📫 How to reach me *satyendramaurya553@gmail.com*
+- 📫 How to reach me *https://satyendramaurya.vercel.app*
+- *satyendramaurya553@gmail.com*
 
 <p align="left">
 </p>
