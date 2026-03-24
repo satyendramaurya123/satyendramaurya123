@@ -281,15 +281,22 @@ fun_facts:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=satyendramaurya123&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&hide_border=true&layout=compact" alt="Wakatime stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyendramaurya123&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyendramaurya123&theme=tokyonight&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&hide_border=true" />
+
+<br/><br/>
 
 ```text
-🌅 Morning    ████████░░░░░░░░░░   Focused deep work sessions
-🌆 Afternoon  ████████████░░░░░░   Peak productivity zone  
-🌃 Night      ████████████████░░   Side projects & open source
+💻 Coding Style & Habits
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌅 Morning      ████████░░░░░░░░░░░░   Deep focus & planning
+🌆 Afternoon    ████████████████░░░░   Peak productivity zone
+🌃 Night        ██████████████████░░   Side projects & OSS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ Favourite     React · SpringBoot · TypeScript · Python
+🏗️ Approach     Clean Code · SOLID Principles · DRY
+🔁 Workflow     Feature Branch → PR → Review → Deploy
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=satyendramaurya123&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged" />
 
 </div>
 
