@@ -256,16 +256,76 @@ fun_facts:
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satyendramaurya123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/satyendramaurya123)
+<!-- Primary trophy service -->
+<a href="https://github.com/satyendramaurya123">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyendramaurya123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" onerror="this.style.display='none'" />
+</a>
 
+<!-- Permanent achievement badges — always visible as fallback -->
 <br/>
 
-![Stars](https://img.shields.io/badge/⭐_Open_Source-Contributor-FFD700?style=for-the-badge)
-![Commits](https://img.shields.io/badge/🔥_Commits-100%2B_This_Year-FF6B35?style=for-the-badge)
-![Repos](https://img.shields.io/badge/📦_Repos-12%2B_Public-4ECDC4?style=for-the-badge)
-![Followers](https://img.shields.io/badge/👥_Followers-150%2B-38BDF8?style=for-the-badge)
-![Stack](https://img.shields.io/badge/💻_Full_Stack-React_%26_SpringBoot-A48EDE?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/☁️_Certified-AWS_%26_Cloud-FF9900?style=for-the-badge)
+| 🏅 Achievement | 🎯 Details |
+|:---:|:---|
+| ![](https://img.shields.io/badge/⭐-Open%20Source%20Contributor-FFD700?style=flat-square) | Actively contributing to public repositories |
+| ![](https://img.shields.io/badge/🔥-100%2B%20Commits%20This%20Year-FF6B35?style=flat-square) | Consistent daily coding habit |
+| ![](https://img.shields.io/badge/📦-12%2B%20Public%20Repos-4ECDC4?style=flat-square) | Projects spanning full-stack, AI & automation |
+| ![](https://img.shields.io/badge/👥-150%2B%20GitHub%20Followers-38BDF8?style=flat-square) | Growing developer community |
+| ![](https://img.shields.io/badge/☁️-AWS%20%2B%20Cloud%20Certified-FF9900?style=flat-square) | Cloud-ready engineer |
+| ![](https://img.shields.io/badge/🤖-GenAI%20App%20Builder-A48EDE?style=flat-square) | Infosys Springboard certified |
+
+</div>
+
+---
+
+## ⚡ Dev Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=satyendramaurya123&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=ffffff&hide_border=true&layout=compact" alt="Wakatime stats" />
+
+```text
+🌅 Morning    ████████░░░░░░░░░░   Focused deep work sessions
+🌆 Afternoon  ████████████░░░░░░   Peak productivity zone  
+🌃 Night      ████████████████░░   Side projects & open source
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=satyendramaurya123&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,prs_merged" />
+
+</div>
+
+---
+
+## 🛠️ Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>📱 VibeGram</h3>
+<img src="https://img.shields.io/badge/Progress-65%25-38BDF8?style=for-the-badge&logo=github-actions&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Next.js-Full%20Stack-black?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/SpringBoot-Backend-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br/>
+<sub>Real-time social media platform</sub>
+</td>
+<td align="center" width="33%">
+<h3>✍️ GlimSpire v2</h3>
+<img src="https://img.shields.io/badge/Progress-40%25-FFD700?style=for-the-badge&logo=github-actions&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/WordPress-Headless-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-Frontend-black?style=flat-square&logo=nextdotjs" /><br/>
+<sub>Headless CMS tech blog upgrade</sub>
+</td>
+<td align="center" width="33%">
+<h3>🤖 AI Side Project</h3>
+<img src="https://img.shields.io/badge/Progress-20%25-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Python-AI%20Powered-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GenAI-Integration-A48EDE?style=flat-square" /><br/>
+<sub>Stealth mode 🤫</sub>
+</td>
+</tr>
+</table>
+
+> 💬 *"Ship fast, iterate faster."*
 
 </div>
 
@@ -303,70 +363,6 @@ fun_facts:
 ```
 📌 Focus Areas:  Arrays · Linked Lists · Trees · Graphs · DP · System Design
 🎯 Goal:         FAANG-level interview preparation through consistent DSA practice
-```
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-<div align="center">
-
-### 🏛️ Academic Background
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🎓  B.Tech — Computer Science & Engineering                        │
-│      Lovely Professional University  |  2023 – Present             │
-│      Focus: Web Development · Software Engineering · Cloud          │
-├─────────────────────────────────────────────────────────────────────┤
-│  📚  Senior Secondary — Science (PCM)                               │
-│      S.J.S Public School  |  2022 – 2023  |  Distinction           │
-│      🏅 Sports Captain   ·   🏆 Quiz Champion                      │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-### 📜 Certifications
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><br/>
-<sub>✅ Verified · 2025</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Infosys-Generative%20AI%20Apps-FF6B00?style=for-the-badge&logo=infosys&logoColor=white" /><br/>
-<sub>✅ Verified · 2025</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/iNeuron-AWS%20Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-<sub>✅ Verified · 2024</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔭 2025 Roadmap
-
-<div align="center">
-
-```
-        NOW                    Q2 2025                  Q4 2025
-         │                        │                        │
-    ─────┼────────────────────────┼────────────────────────┼─────
-         │                        │                        │
-    ⚛️ Advanced            ☁️ AWS Solutions          💼 FAANG
-    React Patterns    ──▶  Architect Prep     ──▶   Internship
-         │                        │                        │
-    🏗️ System            🤖 GenAI Product           🌍 Impactful
-    Design Mastery   ──▶  Integration        ──▶   Open Source
-         │                        │                        │
-    📦 NoteFlow              🚀 SaaS MVP               📈 Scale
-    + VibeGram Ship  ──▶  Launch Ready        ──▶   & Monetize
 ```
 
 </div>
