@@ -2,9 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:38BDF8&height=280&section=header&text=Satyendra%20Maurya&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=38&desc=⚡%20Full%20Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Open%20Source%20Builder&descAlignY=57&descSize=16)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=🏗️+Building+Scalable+Full+Stack+Applications;☁️+Cloud+%7C+React+%7C+Next.js+%7C+SpringBoot;🤖+AI-Powered+Solutions+%26+Developer+Tools;🚀+Open+Source+Contributor+%26+Tech+Blogger" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Building+Scalable+Full+Stack+Applications+%F0%9F%8F%97%EF%B8%8F;Cloud+%7C+React+%7C+Next.js+%7C+SpringBoot+%E2%98%81%EF%B8%8F;AI-Powered+Solutions+%26+Developer+Tools+%F0%9F%A4%96;Open+Source+Contributor+%26+Tech+Blogger+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
